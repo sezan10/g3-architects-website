@@ -105,6 +105,13 @@ main {
   font-weight: 700;
 }
 
+/* features section styles */
+.features {
+  display: flex;
+  margin: 130px;
+  gap: 100px;
+}
+
 /* facts section */
 .facts-card-container {
   display: flex;
